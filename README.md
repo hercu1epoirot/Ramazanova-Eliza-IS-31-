@@ -1,4 +1,4 @@
-Apple music
+# Apple music #
 ## 1) *Диаграмма последовательности* ##
 ```mermaid
 sequenceDiagram
